@@ -1,2 +1,2 @@
 # hello-world
-another repository
+another repository for the seismologist Graham Stuart
